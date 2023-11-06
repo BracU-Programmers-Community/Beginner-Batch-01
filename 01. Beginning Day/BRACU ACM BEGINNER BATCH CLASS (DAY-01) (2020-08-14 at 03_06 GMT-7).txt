@@ -1,0 +1,77 @@
+00:01:02.071,00:01:05.071
+TAHSINUL HAQUE DHRUBO: na vaia
+
+00:13:50.655,00:13:53.655
+MARUF ISLAM: Problem link : https://codeforces.com/problemset/problem/4/A
+
+00:34:25.610,00:34:28.610
+NIRJHAR GOPE: vaiya ektu slow buzhaben please
+
+00:36:47.227,00:36:50.227
+SIHAB SAHARIAR: bitwise operation parina vaiya :3 
+
+00:40:53.372,00:40:56.372
+Tasneem Probha: Vaia log ta abr ektu bolen
+
+00:53:54.918,00:53:57.918
+TAHSINUL HAQUE DHRUBO: vaia example 5 ta arebar ektu bujhaben
+
+01:03:36.494,01:03:39.494
+Raya jahan: whats the timing for the classes
+
+01:03:55.977,01:03:58.977
+Faiaz Mohammad Tiham: Vaia c++ to parina
+
+01:04:14.410,01:04:17.410
+SYED AREF AHMED: new boston onek helpful
+
+01:05:51.417,01:05:54.417
+Faiaz Mohammad Tiham: Ajke je contest ta hobe seta ki python diye kora jabe?
+
+01:06:09.938,01:06:12.938
+SIHAB SAHARIAR: vaiya recursion  besh tough lage(confused hoye zai) . Is there any helpful resource to understand better? 
+
+01:07:24.957,01:07:27.957
+Raya jahan: bhaia every friday te class for beginners? 
+
+01:10:48.628,01:10:51.628
+Tasneem Probha: Vaia can you add me on slack group?
+
+01:11:41.723,01:11:44.723
+SYED ZUHAIR HOSSAIN: https://join.slack.com/t/bracuprogrammers/shared_invite/zt-gw478d3k-KwajRyatilY4sKj_lj0BBg
+
+Click the link to join slack workplace
+
+01:11:44.821,01:11:47.821
+SYED AREF AHMED: vaia vs studi te bits/stdc++ kaj korche na
+
+01:13:37.311,01:13:40.311
+SIHAB SAHARIAR: vaiya class ki recorded ? 
+
+01:13:50.627,01:13:53.627
+SIHAB SAHARIAR: I guess na! 
+
+01:13:56.141,01:13:59.141
+IBNE HASSAN: Dile bhalo hoy
+
+01:13:56.369,01:13:59.369
+TAHSINUL HAQUE DHRUBO: I guess no
+
+01:14:05.760,01:14:08.760
+Zayeed Humayun: not necessary bhaiya
+
+01:14:41.069,01:14:44.069
+TAHSINUL HAQUE DHRUBO: 11 e suru hle valo hy vaia
+
+01:16:11.786,01:16:14.786
+SYED AREF AHMED: vaia rating onek kom
+
+01:16:22.778,01:16:25.778
+SYED AREF AHMED: 800 something
+
+01:16:33.621,01:16:36.621
+SYED AREF AHMED: i mean contest rating
+
+01:18:15.484,01:18:18.484
+TAHSINUL HAQUE DHRUBO: Educational contest onk prb hy :3
+
